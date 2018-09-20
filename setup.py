@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="gitswitch",
-    version="0.0.1",
+    version="0.0.2",
     author="Steven Sierra",
     author_email="bizoru@gmail.com",
     description="A small utility to switch different ssh folders",
