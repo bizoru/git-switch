@@ -11,4 +11,6 @@ Switch between git accounts
 - Add feature to print current config
 - Update REAME
 - Add sample config file to $HOME/.gitswitch
+- Integrate CI/CD checks
+- Add makefile to publish to pypi
 
