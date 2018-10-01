@@ -9,4 +9,6 @@ Switch between git accounts
 - Add feature to remove profile
 - Add feature to add profiles
 - Add feature to print current config
+- Update REAME
+- Add sample config file to $HOME/.gitswitch
 
